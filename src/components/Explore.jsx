@@ -2,7 +2,7 @@ import React from 'react';
 
 const Explore = () => {
     return (
-        <section id='id'>
+        <section id='explore'>
             <div className="container">
                 <div className="row row__column">
                     <h2>
@@ -18,6 +18,3 @@ const Explore = () => {
 }
 
 export default Explore;
-
-
-////..../////////
